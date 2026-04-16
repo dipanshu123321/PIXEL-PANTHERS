@@ -7,4 +7,5 @@
 
 
 #COLLEGE NAME
+<br>
 Shri Vaishnav Vidyapeeth Vishwavidyalaya indore.
