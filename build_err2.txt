@@ -1,0 +1,96 @@
+﻿
+> react-vite-tailwind@0.0.0 build
+> vite build
+
+[36mvite v7.2.4 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 4 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 154ms
+At line:1 char:1
++ & "E:\node 
+js/node.exe" "E:\node j
+s/node_modules/npm/bin/
+npm-cli.js"  ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([31mΓ£ù[39m   
+  Build failed in 1    
+54ms:String) [], R    
+emoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+[31merror during 
+build:
+[31m[@tailwindcss/vite
+:generate:build] 
+Cannot apply unknown 
+utility class 
+`glass`[31m
+file: [36mC:/Users/dil
+ip/OneDrive/Desktop/pro
+ject/src/index.css[31m
+    at 
+onInvalidCandidate (fil
+e:///C:/Users/dilip/One
+Drive/Desktop/project/n
+ode_modules/tailwindcss
+/dist/chunk-MEY3PWYT.mj
+s:21:1511)
+    at Ae (file:///C:/U
+sers/dilip/OneDrive/Des
+ktop/project/node_modul
+es/tailwindcss/dist/chu
+nk-MEY3PWYT.mjs:16:3603
+8)
+    at file:///C:/Users
+/dilip/OneDrive/Desktop
+/project/node_modules/t
+ailwindcss/dist/chunk-M
+EY3PWYT.mjs:21:355
+    at hr (file:///C:/U
+sers/dilip/OneDrive/Des
+ktop/project/node_modul
+es/tailwindcss/dist/chu
+nk-MEY3PWYT.mjs:3:1718)
+    at I (file:///C:/Us
+ers/dilip/OneDrive/Desk
+top/project/node_module
+s/tailwindcss/dist/chun
+k-MEY3PWYT.mjs:3:1377)
+    at xe (file:///C:/U
+sers/dilip/OneDrive/Des
+ktop/project/node_modul
+es/tailwindcss/dist/chu
+nk-MEY3PWYT.mjs:21:172)
+    at zi (file:///C:/U
+sers/dilip/OneDrive/Des
+ktop/project/node_modul
+es/tailwindcss/dist/chu
+nk-MEY3PWYT.mjs:38:294)
+    at async Ba (file:/
+//C:/Users/dilip/OneDri
+ve/Desktop/project/node
+_modules/tailwindcss/di
+st/chunk-MEY3PWYT.mjs:3
+8:631)
+    at async Hu (file:/
+//C:/Users/dilip/OneDri
+ve/Desktop/project/node
+_modules/tailwindcss/di
+st/chunk-MEY3PWYT.mjs:3
+8:1406)
+    at async nu (file:/
+//C:/Users/dilip/OneDri
+ve/Desktop/project/node
+_modules/@tailwindcss/n
+ode/dist/index.mjs:10:3
+433)[39m
+

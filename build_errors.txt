@@ -1,0 +1,29 @@
+﻿src/context/AuthContext.tsx(1,54): error TS6133: 'useEffect' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(4,1): error TS6133: 'useToast' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(16,1): error TS6133: 'DashboardSection' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(17,1): error TS6133: 'StudentsSection' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(18,1): error TS6133: 'AlertsSection' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(19,1): error TS6133: 'AnalyticsSection' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(20,1): error TS6133: 'SettingsSection' is declared but its value is never read.
+src/pages/DashboardPage_old.tsx(70,31): error TS2304: Cannot find name 'TrendingUp'.
+src/pages/DashboardPage_old.tsx(160,24): error TS2304: Cannot find name 'UserCheck'.
+src/pages/DashboardPage_old.tsx(168,24): error TS2304: Cannot find name 'TrendingUp'.
+src/pages/DashboardPage_old.tsx(179,20): error TS2304: Cannot find name 'ResponsiveContainer'.
+src/pages/DashboardPage_old.tsx(180,22): error TS2304: Cannot find name 'LineChart'.
+src/pages/DashboardPage_old.tsx(181,24): error TS2304: Cannot find name 'CartesianGrid'.
+src/pages/DashboardPage_old.tsx(182,24): error TS2304: Cannot find name 'XAxis'.
+src/pages/DashboardPage_old.tsx(183,24): error TS2304: Cannot find name 'YAxis'.
+src/pages/DashboardPage_old.tsx(184,24): error TS2304: Cannot find name 'RechartsTooltip'.
+src/pages/DashboardPage_old.tsx(187,24): error TS2304: Cannot find name 'Line'.
+src/pages/DashboardPage_old.tsx(188,23): error TS2304: Cannot find name 'LineChart'.
+src/pages/DashboardPage_old.tsx(189,21): error TS2304: Cannot find name 'ResponsiveContainer'.
+src/pages/DashboardPage_old.tsx(197,20): error TS2304: Cannot find name 'ResponsiveContainer'.
+src/pages/DashboardPage_old.tsx(198,22): error TS2304: Cannot find name 'BarChart'.
+src/pages/DashboardPage_old.tsx(199,24): error TS2304: Cannot find name 'CartesianGrid'.
+src/pages/DashboardPage_old.tsx(200,24): error TS2304: Cannot find name 'XAxis'.
+src/pages/DashboardPage_old.tsx(201,24): error TS2304: Cannot find name 'YAxis'.
+src/pages/DashboardPage_old.tsx(202,24): error TS2304: Cannot find name 'RechartsTooltip'.
+src/pages/DashboardPage_old.tsx(203,24): error TS2304: Cannot find name 'Bar'.
+src/pages/DashboardPage_old.tsx(204,23): error TS2304: Cannot find name 'BarChart'.
+src/pages/DashboardPage_old.tsx(205,21): error TS2304: Cannot find name 'ResponsiveContainer'.
+
